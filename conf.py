@@ -20,12 +20,12 @@ enable_jsdelivr = {
 
 # 站点设置
 site_name = "桌沿奇思"
-site_logo = "${static_prefix}logo.png"
+site_logo = "${static_prefix}眼镜证件照.jpg"
 site_build_date = "2020-7-1T09:00+08:00"
 author = "谢卓彦"
 email = "hi@imalan.cn"
 author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
+description = "欢迎来到我的个人作品集。"
 key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
