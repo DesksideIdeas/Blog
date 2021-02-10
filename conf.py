@@ -23,10 +23,10 @@ site_name = "桌沿奇思"
 site_logo = "${site_prefix}static/newlogo.png"
 site_build_date = "2020-07-01T09:00+08:00"
 author = "谢卓彦"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
+email = "xiezhuoyan1999@hotmail.com"
+author_homepage = "https://desksideideas.github.io/Blog/"
 description = "欢迎来到我的个人作品集。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+key_words = ['谢卓彦', '个人作品集', '桌沿奇思', 'blog']
 language = 'zh-CN'
 external_links = [
     {
@@ -42,17 +42,17 @@ external_links = [
 ]
 nav = [
     {
-        "name": "首页",
+        "name": "进入首页",
         "url": "${site_prefix}",
         "target": "_self"
     },
     {
-        "name": "归档",
+        "name": "分类文章",
         "url": "${site_prefix}archives/",
         "target": "_self"
     },
     {
-        "name": "关于",
+        "name": "了解桌沿",
         "url": "${site_prefix}about/",
         "target": "_self"
     }
