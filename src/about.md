@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 关于桌沿
-slug: about-me
+slug: about
 date: 2021/02/01 09:00:00
 status: publish
 author: 谢卓彦
