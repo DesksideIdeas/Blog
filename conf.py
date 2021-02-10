@@ -20,7 +20,7 @@ enable_jsdelivr = {
 
 # 站点设置
 site_name = "桌沿奇思"
-site_logo = "../src/static/眼睛证件照.jpg"
+site_logo = "${site_prefix}static/newlogo.png"
 site_build_date = "2020-07-01T09:00+08:00"
 author = "谢卓彦"
 email = "hi@imalan.cn"
