@@ -9,9 +9,9 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 template = {
-    "name": "Maverick",
+    "name": "Galileo",
     "type": "local",
-    "path": "../Maverick"
+    "path": "../Galileo"
 }
 enable_jsdelivr = {
     "enabled": True,
@@ -30,14 +30,9 @@ key_words = ['谢卓彦', '个人作品集', '桌沿奇思', 'blog']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
-    },
-    {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "知乎",
+        "url": "https://www.zhihu.com/people/yan-shen-diao-yan-37",
+        "brief": "了解我的更多回答"
     }
 ]
 nav = [
@@ -47,7 +42,7 @@ nav = [
         "target": "_self"
     },
     {
-        "name": "分类文章",
+        "name": "文章汇总",
         "url": "${site_prefix}archives/",
         "target": "_self"
     },
@@ -59,19 +54,10 @@ nav = [
 ]
 
 social_links = [
-    {
-        "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
-        "icon": "gi gi-twitter"
-    },
-    {
-        "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
-        "icon": "gi gi-github"
-    },
+
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/7413289427/",
         "icon": "gi gi-weibo"
     }
 ]
