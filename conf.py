@@ -9,9 +9,9 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 template = {
-    "name": "Galileo",
+    "name": "Maverick",
     "type": "local",
-    "path": "../Galileo"
+    "path": "../Maverick"
 }
 enable_jsdelivr = {
     "enabled": True,
