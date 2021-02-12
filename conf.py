@@ -22,7 +22,7 @@ enable_jsdelivr = {
 site_name = "桌沿奇思"
 site_logo = "${site_prefix}static/newlogo.png"
 site_build_date = "2020-07-01T09:00+08:00"
-author = "谢卓彦"
+author = "All rights reserved by XieZhuoYan."
 email = "xiezhuoyan1999@hotmail.com"
 author_homepage = "https://desksideideas.github.io/Blog/"
 description = "欢迎来到我的个人作品集。"
@@ -37,12 +37,12 @@ external_links = [
     {
         "name": "David Perell",
         "url": "https://perell.com",
-        "brief": "一位在我的理想道路上走得很远的先行者"
+        "brief": "一位在我的理想道路上率先远航的先行者"
     },
     {
         "name": "Bullet Journal",
         "url": "https://bulletjournal.com",
-        "brief": "一种值得能让你静下心来的笔记法"
+        "brief": "一种值得学习、能让你静下心来的笔记法"
     }
     
 ]
