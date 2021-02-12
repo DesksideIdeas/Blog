@@ -30,10 +30,21 @@ key_words = ['谢卓彦', '个人作品集', '桌沿奇思', 'blog']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "知乎",
-        "url": "https://www.zhihu.com/people/yan-shen-diao-yan-37",
-        "brief": "了解我的更多回答"
+        "name": "James Clear",
+        "url": "https://jamesclear.com",
+        "brief": "一位在「习惯」方面帮助了我很多的作者"
+    },
+    {
+        "name": "David Perell",
+        "url": "https://perell.com",
+        "brief": "一位在我的理想道路上走得很远的先行者"
+    },
+    {
+        "name": "Bullet Journal",
+        "url": "https://bulletjournal.com",
+        "brief": "一种值得能让你静下心来的笔记法"
     }
+    
 ]
 nav = [
     {
