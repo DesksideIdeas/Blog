@@ -41,7 +41,7 @@ external_links = [
     },
     {
         "name": "Bullet Journal",
-        "url": "https://bulletjournal.com",
+        "url": "https://bulletjournal.com/pages/learn",
         "brief": "一种值得学习、能让你静下心来的笔记法"
     }
     
