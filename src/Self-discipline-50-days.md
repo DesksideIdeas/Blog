@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Hello World!
-slug: Self-discipline-50-days.md
-date: 202003-30 16:50
+title: 自律50天，这种生活真的很爽
+slug: Self-discipline-50-days
+date: 2020-03-30 16:50
 status: post
 author: 谢卓彦
 categories: 
