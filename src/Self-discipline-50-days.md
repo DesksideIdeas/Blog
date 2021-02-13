@@ -3,7 +3,7 @@ layout: post
 title: 自律50天，这种生活真的很爽
 slug: Self-discipline-50-days
 date: 2020-03-30 16:50
-status: post
+status: publish
 author: 谢卓彦
 categories: 
   - 「成长」如何自律、抵御诱惑
