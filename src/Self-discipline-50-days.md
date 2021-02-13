@@ -9,7 +9,7 @@ categories:
   - 「成长」如何自律、抵御诱惑
 tags:
   - 自律
-excerpt: 来看看我的自律生活吧。
+excerpt: 来看看我的自律生活吧。!()[./images/2345.png]
 
 ---
 
