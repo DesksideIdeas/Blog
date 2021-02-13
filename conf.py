@@ -21,11 +21,11 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "桌沿奇思"
 site_logo = "${site_prefix}static/newlogo.png"
-site_build_date = "2020-07-01T09:00+08:00"
+site_build_date = "2020-02-01T09:00+08:00"
 author = "All rights reserved by XieZhuoYan."
 email = "xiezhuoyan1999@hotmail.com"
 author_homepage = "https://desksideideas.github.io/Blog/"
-description = "欢迎来到我的个人作品集。"
+description = "欢迎来到谢卓彦的个人作品集。"
 key_words = ['谢卓彦', '个人作品集', '桌沿奇思', 'blog']
 language = 'zh-CN'
 external_links = [
