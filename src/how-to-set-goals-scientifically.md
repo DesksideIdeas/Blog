@@ -2,7 +2,7 @@
 layout: post
 title: 既然从来没人告诉过你，怎么科学设立目标，那就让我来教会你！
 slug: how-to-set-goals-scientifically
-date: 2020-04-18 18:48
+date: 2020-04-24 18:48
 status: publish
 author: 谢卓彦
 categories: 
