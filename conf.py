@@ -58,6 +58,11 @@ nav = [
         "target": "_self"
     },
     {
+        "name": "我看的书",
+        "url": "https://www.notion.so/deskside/78a19a0830674fe88b92b519f12efcc0?v=410e925d970048bd9700030cc81baeac",
+        "target": "_self"
+    },
+    {
         "name": "了解桌沿",
         "url": "${site_prefix}about/",
         "target": "_self"
