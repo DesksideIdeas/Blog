@@ -10,8 +10,8 @@ categories:
 tags: 
   - 观念
   - 快乐
-excerpt: 
----有钱和快乐是个什么关系？
+excerpt: 有钱和快乐是个什么关系？
+---
 
 
 
