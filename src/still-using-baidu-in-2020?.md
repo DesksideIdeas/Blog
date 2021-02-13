@@ -14,7 +14,7 @@ excerpt: 百度系产品，我只剩一个用来下载网络资源的百度网�
 
 最近，我发现我一个大学成绩很好的朋友，不仅一直在用「百度」搜索，而且电脑主页甚至还是「2345网址导航」这种上个年代的浏览器主页。
 
-![https://cdn.nlark.com/yuque/0/2020/png/807531/1601448416256-a0efb5ec-f0e4-4be1-8c4a-fe12a7731050.png?x-oss-process=image%2Fresize%2Cw_1500](https://cdn.nlark.com/yuque/0/2020/png/807531/1601448416256-a0efb5ec-f0e4-4be1-8c4a-fe12a7731050.png?x-oss-process=image%2Fresize%2Cw_1500)
+![2345浏览器](./images/2345.png)
 
 当然，是我的错误观念先入为主了：我以为，成绩更优秀的人，应该懂得「搜索」对自己的影响有多大，并因此学会改善和优化自己的搜索体验。
 
