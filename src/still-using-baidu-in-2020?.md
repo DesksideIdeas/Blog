@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2020年了，你还在「百度一下」吗？
-slug: still-using-baidu-in-2020?
+slug: still-using-baidu-in-2020
 date: 2020-04-18 18:48
 status: publish
 author: 谢卓彦
